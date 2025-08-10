@@ -36,3 +36,5 @@ if player_choice == "rock" or player_choice == "paper" or player_choice == "scis
                 print("You lose :(")
 else:
     print("Bad decision")
+
+#TODO add more choices not 3 but maybe 4?

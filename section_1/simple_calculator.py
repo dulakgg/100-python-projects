@@ -18,3 +18,5 @@ match choice:
         print(f"{a} / {b} = {a / b}")
     case _:
         print("You typed wrong")
+
+#TODO add squares and all

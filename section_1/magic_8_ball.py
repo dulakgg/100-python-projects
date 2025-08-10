@@ -23,3 +23,5 @@ question = input("What's your Question?\n>>> ")
 print("Your question is: ", question)
 print("The magic 8 ball says...")
 print(answer)
+
+#TODO do nothing or add more answers

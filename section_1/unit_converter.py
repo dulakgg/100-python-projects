@@ -14,3 +14,5 @@ if choice == 1:
     km_to_miles()
 else:
     celsius_to_fahrenheit()
+
+#TODO add more converters
